@@ -1,6 +1,6 @@
 {
   "email": "teste@teste.com",
-  "senha": "teste-i2yo8w",
+  "senha": "teste-jokaoq",
   "produto": "AAAAA",
   "upsells_comprados": [
     1
@@ -8,5 +8,5 @@
   "data": "2025-08-15T18:27:24.199Z",
   "transacao_id": "test_378243",
   "acesso_liberado": true,
-  "data_recuperacao": "2025-08-15T18:28:22.165Z"
+  "data_recuperacao": "2025-08-15T18:28:52.462Z"
 }
